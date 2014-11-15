@@ -1,6 +1,6 @@
 body {
     color: #333333; padding:0px; margin:0px;
-    font-size: 0.75em;
+    font-size: 0.9em;
     font-family: Arial, Helvetica, Verdana;
 }
 
@@ -31,7 +31,7 @@ body.blue-bg {
 }
 
 #top {
-    height:500  px;
+    height:500px;
 
     margin-top:0px;
     font-size:1.1em;
